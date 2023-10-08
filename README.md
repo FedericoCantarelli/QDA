@@ -1,1 +1,2 @@
-# QDA
+# Quality Data Anlalysis Python Package 🌱
+I decided to develop this package in python after taking the Quality Data Anlysis course held by Professor Bianca Maria Colosimo @ POLIMI in A.Y. 2021/2022. With this package it is possible to create control charts to monitor industrial processes. I decided to enrich the package by also adding new approaches for process control based on computer vision and video analysis.
